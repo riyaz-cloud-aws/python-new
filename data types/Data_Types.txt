@@ -1,0 +1,8 @@
+Numeric datatype
+sequence datatype
+boolean datatype
+set types
+binary datatype
+mapping datatype
+custom datatype
+none datatypes
