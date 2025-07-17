@@ -5,3 +5,4 @@ set types
 binary datatype
 mapping datatype
 custom datatype
+none datatypes
