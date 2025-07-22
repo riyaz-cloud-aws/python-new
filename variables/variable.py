@@ -19,7 +19,8 @@ def display():
     print("inner function:", text)
     
 def fun():
-    print("outer function:",text)
+    text = "python was awesome!"
+    print("outer function:", text)
     
 display()
 fun()    
