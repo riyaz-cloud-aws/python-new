@@ -10,13 +10,13 @@ if grade < 1 or grade > 12:
 else:
     if grade >= 9:
         if topper == "yes":
-         initial_disocunt = 20
+         initial_discount = 20
         else: 
          initial_discount = 10 
     elif grade >= 6:
-         initial_disocunt = 5
+         initial_discount = 5
     else :
-          initial_disocunt = 0
+          initial_discount = 0
 
 
 # initial discount logic
@@ -28,7 +28,7 @@ else :
      extra_discount = 0
 
 # total discount
-total_discount = initial_disocunt + extra_discount + discount_percentage
+total_discount = initial_discount + extra_discount + discount_percentage
 
 # calculations
 
